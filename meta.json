@@ -1,0 +1,13 @@
+{
+  "module_id": "hazalmestci:mcp3001-2",
+  "visibility": "public",
+  "url": "https://github.com/mestcihazal/mcp3001-2",
+  "description": "A Viam module, written in Go, providing analog to digital conversion capabilities for MCP3001 and MCP3002 SPI ADC's.",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "hazalmestci:sensor:mcp3001-2-go"
+    }
+  ],
+  "entrypoint": "exec"
+}
