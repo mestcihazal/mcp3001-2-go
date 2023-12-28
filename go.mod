@@ -1,4 +1,4 @@
-module github.com/mestcihazal//mcp3001-2-go
+module github.com/mestcihazal/mcp3001-2-go
 
 go 1.19
 
