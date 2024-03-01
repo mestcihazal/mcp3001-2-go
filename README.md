@@ -40,7 +40,7 @@ Save your config.
 
 ### Attributes
 
-The following attributes are available for a `mcp3001-2` sebsor:
+The following attributes are available for a `mcp3001-2` sensor:
 
 | Name    | Type   | Inclusion    | Description |
 | ------- | ------ | ------------ | ----------- |
